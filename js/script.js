@@ -1,10 +1,3 @@
-const ctaForm = document.querySelector('.cta-form')
-
-ctaForm.addEventListener('click', (e) => {
-  console.log('prevented click event')
-  e.preventDefault()
-})
-
 // Set current year
 const yearEl = document.querySelector(".year");
 const currentYear = new Date().getFullYear();

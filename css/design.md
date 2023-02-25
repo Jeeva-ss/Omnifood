@@ -26,22 +26,22 @@ Letter spacing
 
 -- 02 COLORS
 
-Primary: #e67e22
+Primary: #6A4AA1
 Tints:
-#fdf2e9
-#fae5d3
-#eb984e
+#f0edf6
+#e1dbec
+#886eb4
 
 -- 03 SHADES
 
-#cf711f
-#45260a
+#5f4391
+#201630
 
 -- 04 ACCENTS
 
 #888
 #767676 (lightest grey allowed on #fff)
-#6f6f6f (lightest grey allowed on #fdf2e9)
+#6f6f6f (lightest grey allowed on #f0edf6)
 #555
 #333
 
